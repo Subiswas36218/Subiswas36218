@@ -4,7 +4,7 @@
 👨‍💻 About Me:
 🔭 Working on AI Systems, MLOps Pipelines & Scalable Cloud Architectures
 🌱 Learning Kubernetes, Advanced MLOps & Distributed Systems
-💬 Ask me about Python, Machine Learning, AWS, Data Pipelines
+💬 Ask me about: Python, Machine Learning, AWS, Data Pipelines
 ⚡ Fun fact: I build production-ready AI systems 🚀
 - 📫 Reach me: bsubhankar001@gmail.com / subiswas@constructor.university
 
