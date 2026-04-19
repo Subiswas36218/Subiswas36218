@@ -5,7 +5,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Subiswas36218&color=blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Subiswas36218.Subiswas36218)
-![Profile Count](https://profile-counter.glitch.me/Subiswas36218/count.svg)
 ![Followers](https://img.shields.io/github/followers/Subiswas36218?style=social)
 
 </div>
@@ -34,13 +33,6 @@
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subiswas36218&theme=react-dark" alt="Activity Graph" />
-</div>
-
-### 🏆 Trophies & Metrics
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Subiswas36218&theme=radical" alt="Trophies" />
-  <br>
-  <img src="https://github-metrics.lecoq.io/Subiswas36218" alt="Metrics" />
 </div>
 
 ---
