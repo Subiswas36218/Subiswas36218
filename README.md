@@ -1,86 +1,147 @@
 # Hi 👋, I'm Subhankar Biswas
-💻 A Passionate Data Engineer from India. | ☁️ Cloud & MLOps Enthusiast | 📊 Data Systems Builder | 🚀 Building Real-world Projects
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Engineer;MLOps+Engineer;Cloud+Architect)
 
-👨‍💻 About Me:
-🔭 Working on AI Systems, MLOps Pipelines & Scalable Cloud Architectures
-🌱 Learning Kubernetes, Advanced MLOps & Distributed Systems
-💬 Ask me about: Python, Machine Learning, AWS, Data Pipelines
-⚡ Fun fact: I build production-ready AI systems 🚀
-- 📫 Reach me: bsubhankar001@gmail.com / subiswas@constructor.university
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Subiswas36218&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Subiswas36218.Subiswas36218)
+![Profile Count](https://profile-counter.glitch.me/Subiswas36218/count.svg)
+![Followers](https://img.shields.io/github/followers/Subiswas36218?style=social)
 
-🚀 Tech Stack:
+</div>
 
-👨‍💻 Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+💻 A Passionate Data Engineer from India. | ☁️ Cloud & MLOps Enthusiast | 📊 Data Systems Builder | 🚀 Building Real-world Projects[span_2](start_span)[span_2](end_span)
 
-🤖 AI / ML / Data Science:
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+### 👨‍💻 About Me:
+*   🔭 Working on AI Systems, MLOps Pipelines & Scalable Cloud Architectures[span_3](start_span)[span_3](end_span)
+*   🌱 Learning Kubernetes, Advanced MLOps & Distributed Systems[span_4](start_span)[span_4](end_span)
+*   💬 Ask me about: Python, Machine Learning, AWS, Data Pipelines[span_5](start_span)[span_5](end_span)
+*   ⚡ Fun fact: I build production-ready AI systems 🚀[span_6](start_span)[span_6](end_span)
+*   📫 Reach me: bsubhankar001@gmail.com / subiswas@constructor.university[span_7](start_span)[span_7](end_span)
 
-🧠 LLM & GenAI:
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+---
 
-☁️ Cloud & DevOps:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+## 📊 GitHub Stats & Activity
 
-📊 Data Engineering & Pipelines:
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-FF6F00?style=for-the-badge)
-![Data Pipeline](https://img.shields.io/badge/Data-Pipelines-0A66C2?style=for-the-badge)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subiswas36218&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subiswas36218&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subiswas36218&theme=radical" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subiswas36218&theme=react-dark" alt="Activity Graph" />
+</div>
 
-🧰 Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🏆 Trophies & Metrics
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Subiswas36218&theme=radical" alt="Trophies" />
+  <br>
+  <img src="https://github-metrics.lecoq.io/Subiswas36218" alt="Metrics" />
+</div>
 
-📌 Featured Projects:
+---
 
-🔥 delivery-ops-dashboard
-📦 End-to-end logistics analytics dashboard
-Real-time delivery insights
-Data pipelines + visualization
-Business KPI tracking
+## 🚀 Tech Stack
 
-🚆 train-delay-prediction
-⏱️ ML model to predict train delays
-Feature engineering on historical data
-Regression + classification models
-Real-world transport optimization
+**👨‍💻 Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql)
+![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=gnubash)
 
-🧠 llm-doc-search
-📄 LLM-powered document search system
-Semantic search with embeddings
-FAISS vector database
-LangChain-based retrieval
+**🤖 AI / ML / Data Science:**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)[span_8](start_span)[span_8](end_span)
 
-🪙 Gold Price & War News ML Pipeline
-📊 Predictive analytics pipeline
-Combines geopolitical news + gold price trends
-Automated ETL + ML modeling
-Time-series forecasting
+**🧠 LLM & GenAI:**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)[span_9](start_span)[span_9](end_span)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)[span_10](start_span)[span_10](end_span)
 
-🎓 engagement-ai
-📷 Real-time student engagement detection
-Computer vision (OpenCV + DL)
-Live video processing
-AI-based attention scoring
+**☁️ Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)[span_11](start_span)[span_11](end_span)
 
-💰 binance-airflow-etl
-📈 Crypto data pipeline system
-Binance API ingestion
-Apache Airflow orchestration
-Automated ETL workflows
+**📊 Data Engineering & Pipelines:**
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-FF6F00?style=for-the-badge)[span_12](start_span)[span_12](end_span)
+![Data Pipeline](https://img.shields.io/badge/Data-Pipelines-0A66C2?style=for-the-badge)[span_13](start_span)[span_13](end_span)
 
-🌐 Connect with Me:
-💼 LinkedIn: www.linkedin.com/in/subhankar-biswas-086830169
+**🧰 Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)[span_14](start_span)[span_14](end_span)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)[span_15](start_span)[span_15](end_span)
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 [delivery-ops-dashboard](https://github.com/Subiswas36218/delivery-ops-dashboard)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/delivery-ops-dashboard?style=social) ![Forks](https://img.shields.io/github/forks/Subiswas36218/delivery-ops-dashboard?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Subiswas36218/delivery-ops-dashboard) ![Repo Size](https://img.shields.io/github/repo-size/Subiswas36218/delivery-ops-dashboard)
+*   **Description:** Real-time delivery analytics system using Kafka, ML, Redis and Streamlit.[span_16](start_span)[span_16](end_span) 
+*   **Highlights:** End-to-end logistics analytics, real-time insights, business KPI tracking.[span_17](start_span)[span_17](end_span)
+
+### 🚆 [train-delay-prediction](https://github.com/Subiswas36218/train-delay-prediction)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/train-delay-prediction?style=social) ![Issues](https://img.shields.io/github/issues/Subiswas36218/train-delay-prediction) ![Pull Requests](https://img.shields.io/github/issues-pr/Subiswas36218/train-delay-prediction)
+*   **Description:** Project: Train Delay Prediction using Machine Learning 🚆[span_18](start_span)[span_18](end_span)
+*   **Highlights:** Feature engineering on historical data, regression + classification models, real-world transport optimization.[span_19](start_span)[span_19](end_span)
+
+### 🧠 [llm-doc-search](https://github.com/Subiswas36218/llm-doc-search)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/llm-doc-search?style=social) ![Contributors](https://img.shields.io/github/contributors/Subiswas36218/llm-doc-search) ![Last Commit](https://img.shields.io/github/last-commit/Subiswas36218/llm-doc-search)
+*   **Description:** AI-powered document search assistant using RAG[span_20](start_span)[span_20](end_span)
+*   **Highlights:** Semantic search with embeddings, FAISS vector database, LangChain-based retrieval.[span_21](start_span)[span_21](end_span)
+
+### 💰 [binance-airflow-etl-Subhankar-](https://github.com/Subiswas36218/binance-airflow-etl-Subhankar-)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/binance-airflow-etl-Subhankar-?style=social) ![Build Status](https://img.shields.io/github/actions/workflow/status/Subiswas36218/binance-airflow-etl-Subhankar-/main.yml)
+*   **Description:** Data Pipeline Project (Constructor University, 2nd Semester)[span_22](start_span)[span_22](end_span)
+*   **Highlights:** Binance API ingestion, Apache Airflow orchestration, Automated ETL workflows.[span_23](start_span)[span_23](end_span)
+
+### 🎓 [engagement-ai](https://github.com/Subiswas36218/engagement-ai)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/engagement-ai?style=social) ![License](https://img.shields.io/github/license/Subiswas36218/engagement-ai)
+*   **Description:** AI system for video-based user engagement analysis using CV, ML and FastAPI.[span_24](start_span)[span_24](end_span)
+*   **Highlights:** Computer vision (OpenCV + DL), Live video processing, AI-based attention scoring.[span_25](start_span)[span_25](end_span)
+
+### 🧬 [bioprocess-digital-twin-causal-ai](https://github.com/Subiswas36218/bioprocess-digital-twin-causal-ai)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/bioprocess-digital-twin-causal-ai?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Subiswas36218/bioprocess-digital-twin-causal-ai)
+*   **Description:** Bioprocess Digital Twin using PyTorch and Causal AI (DoWhy) for modeling process dynamics and performing root cause analysis on simulated bioreactor data.[span_26](start_span)[span_26](end_span)
+
+### 💶 [euro-sparkle-finance](https://github.com/Subiswas36218/euro-sparkle-finance)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/euro-sparkle-finance?style=social)
+*   **Description:** FinCopilot is a modern, data-driven personal finance management platform designed to help users track, analyze, and optimize their financial life in real time.[span_27](start_span)[span_27](end_span)
+
+### 🤖 [multi-agent-llm-system](https://github.com/Subiswas36218/multi-agent-llm-system)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/multi-agent-llm-system?style=social) ![Issues](https://img.shields.io/github/issues/Subiswas36218/multi-agent-llm-system)
+*   **Description:** Prototype multi-agent AI system for task orchestration, contextual reasoning and tool-integrated LLM workflows.[span_28](start_span)[span_28](end_span)
+
+### 🔎 [grant-intelligence-pipeline](https://github.com/Subiswas36218/grant-intelligence-pipeline)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/grant-intelligence-pipeline?style=social) 
+*   **Description:** Automated Discovery & Structuring of Funding Opportunities.[span_29](start_span)[span_29](end_span)
+
+### 🛒 [retail-inventory-system](https://github.com/Subiswas36218/retail-inventory-system)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/retail-inventory-system?style=social) 
+*   **Description:** Full-stack Inventory Management System using C# (.NET), React, and TypeScript.[span_30](start_span)[span_30](end_span)
+
+*(Note: "Gold Price & War News ML Pipeline" is also an ongoing project featuring automated ETL and time-series forecasting)*[span_31](start_span)[span_31](end_span)
+
+---
+
+## 🌐 Connect with Me:
+💼 LinkedIn: [www.linkedin.com/in/subhankar-biswas-086830169](https://www.linkedin.com/in/subhankar-biswas-086830169)[span_32](start_span)[span_32](end_span)
+
+<br>
+<div align="center">
+  
+![Snake Animation](https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/output/github-contribution-grid-snake.svg)
+
+![3D Contributions](https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
