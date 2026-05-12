@@ -28,18 +28,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Subiswas36218&show_icons=true&theme=radical&cache_seconds=1800" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subiswas36218&layout=compact&theme=radical&cache_seconds=1800" />
-
-</div>
-
-<br>
-
 
 <div align="center">
 
