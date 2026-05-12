@@ -176,14 +176,14 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/output/github-contribution-grid-snake.svg" />
+</p>
 
-</div>
-
-<div align="center">
+---
 
 ## 🌌 3D Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
