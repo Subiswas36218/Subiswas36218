@@ -23,16 +23,39 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subiswas36218&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subiswas36218&layout=compact&theme=radical" alt="Top Languages"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subiswas36218&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subiswas36218&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
-<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subiswas36218&theme=radical" alt="GitHub Streak" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subiswas36218&theme=tokyonight&hide_border=true"/>
+
 </div>
-<br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subiswas36218&theme=react-dark" alt="Activity Graph" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subiswas36218&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Subiswas36218&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<div align="center">
+
+### ⚡ Contribution Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subiswas36218&theme=tokyonight"/>
+
 </div>
 
 ---
@@ -127,13 +150,40 @@
 ---
 
 ## 🌐 Connect with Me:
-💼 LinkedIn: [www.linkedin.com/in/subhankar-biswas-086830169](https://www.linkedin.com/in/subhankar-biswas-086830169)
-
-<br>
 <div align="center">
-  
-![Snake Animation](https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/output/github-contribution-grid-snake.svg)
 
-![3D Contributions](https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/main/profile-3d-contrib/profile-night-rainbow.svg)
+<a href="https://www.linkedin.com/in/subhankar-biswas-086830169/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bsubhankar001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Subiswas36218" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:subiswas@constructor.university">
+  <img src="https://img.shields.io/badge/University_Email-0A66C2?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+<div align="center">
+
+## 🌌 3D Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Subiswas36218/Subiswas36218/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 </div>
