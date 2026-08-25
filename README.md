@@ -1,12 +1,11 @@
-Hi 👋, I'm Subhankar Biswas
-
-
+# Hi 👋, I'm Subhankar Biswas
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Engineer;MLOps+Engineer;Cloud+Architect)
 
 <div align="center">
-
-
-
-
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Subiswas36218&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Subiswas36218.Subiswas36218)
+![Followers](https://img.shields.io/github/followers/Subiswas36218?style=social)
 
 </div>
 
