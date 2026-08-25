@@ -76,78 +76,52 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" /></a>
 <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
 
-📌 Featured Projects
+## 📌 Featured Projects
 
-🔥 delivery-ops-dashboard
+### 🔥 [delivery-ops-dashboard](https://github.com/Subiswas36218/delivery-ops-dashboard)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/delivery-ops-dashboard?style=social) ![Forks](https://img.shields.io/github/forks/Subiswas36218/delivery-ops-dashboard?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Subiswas36218/delivery-ops-dashboard) ![Repo Size](https://img.shields.io/github/repo-size/Subiswas36218/delivery-ops-dashboard)
+*   **Description:** Real-time delivery analytics system using Kafka, ML, Redis and Streamlit.
+*   **Highlights:** End-to-end logistics analytics, real-time insights, business KPI tracking.
 
-   
+### 🚆 [train-delay-prediction](https://github.com/Subiswas36218/train-delay-prediction)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/train-delay-prediction?style=social) ![Issues](https://img.shields.io/github/issues/Subiswas36218/train-delay-prediction) ![Pull Requests](https://img.shields.io/github/issues-pr/Subiswas36218/train-delay-prediction)
+*   **Description:** Project: Train Delay Prediction using Machine Learning 🚆
+*   **Highlights:** Feature engineering on historical data, regression + classification models, real-world transport optimization.
 
-Description: Real-time delivery analytics system using Kafka, ML, Redis and Streamlit.
+### 🧠 [llm-doc-search](https://github.com/Subiswas36218/llm-doc-search)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/llm-doc-search?style=social) ![Contributors](https://img.shields.io/github/contributors/Subiswas36218/llm-doc-search) ![Last Commit](https://img.shields.io/github/last-commit/Subiswas36218/llm-doc-search)
+*   **Description:** AI-powered document search assistant using RAG
+*   **Highlights:** Semantic search with embeddings, FAISS vector database, LangChain-based retrieval.
 
-Highlights: End-to-end logistics analytics, real-time insights, business KPI tracking.
+### 💰 [binance-airflow-etl-Subhankar-](https://github.com/Subiswas36218/binance-airflow-etl-Subhankar-)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/binance-airflow-etl-Subhankar-?style=social) ![Build Status](https://img.shields.io/github/actions/workflow/status/Subiswas36218/binance-airflow-etl-Subhankar-/main.yml)
+*   **Description:** Data Pipeline Project (Constructor University, 2nd Semester)
+*   **Highlights:** Binance API ingestion, Apache Airflow orchestration, Automated ETL workflows.
 
-🚆 train-delay-prediction
+### 🎓 [engagement-ai](https://github.com/Subiswas36218/engagement-ai)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/engagement-ai?style=social) ![License](https://img.shields.io/github/license/Subiswas36218/engagement-ai)
+*   **Description:** AI system for video-based user engagement analysis using CV, ML and FastAPI.
+*   **Highlights:** Computer vision (OpenCV + DL), Live video processing, AI-based attention scoring.
 
-  
+### 🧬 [bioprocess-digital-twin-causal-ai](https://github.com/Subiswas36218/bioprocess-digital-twin-causal-ai)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/bioprocess-digital-twin-causal-ai?style=social) ![Last Commit](https://img.shields.io/github/last-commit/Subiswas36218/bioprocess-digital-twin-causal-ai)
+*   **Description:** Bioprocess Digital Twin using PyTorch and Causal AI (DoWhy) for modeling process dynamics and performing root cause analysis on simulated bioreactor data.
 
-Description: Project: Train Delay Prediction using Machine Learning 🚆
+### 💶 [euro-sparkle-finance](https://github.com/Subiswas36218/euro-sparkle-finance)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/euro-sparkle-finance?style=social)
+*   **Description:** FinCopilot is a modern, data-driven personal finance management platform designed to help users track, analyze, and optimize their financial life in real time.
 
-Highlights: Feature engineering on historical data, regression + classification models, real-world transport optimization.
+### 🤖 [multi-agent-llm-system](https://github.com/Subiswas36218/multi-agent-llm-system)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/multi-agent-llm-system?style=social) ![Issues](https://img.shields.io/github/issues/Subiswas36218/multi-agent-llm-system)
+*   **Description:** Prototype multi-agent AI system for task orchestration, contextual reasoning and tool-integrated LLM workflows.
 
-🧠 llm-doc-search
+### 🔎 [grant-intelligence-pipeline](https://github.com/Subiswas36218/grant-intelligence-pipeline)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/grant-intelligence-pipeline?style=social) 
+*   **Description:** Automated Discovery & Structuring of Funding Opportunities.
 
-  
-
-Description: AI-powered document search assistant using RAG
-
-Highlights: Semantic search with embeddings, FAISS vector database, LangChain-based retrieval.
-
-💰 binance-airflow-etl-Subhankar-
-
- 
-
-Description: Data Pipeline Project (Constructor University, 2nd Semester)
-
-Highlights: Binance API ingestion, Apache Airflow orchestration, Automated ETL workflows.
-
-🎓 engagement-ai
-
- 
-
-Description: AI system for video-based user engagement analysis using CV, ML and FastAPI.
-
-Highlights: Computer vision (OpenCV + DL), Live video processing, AI-based attention scoring.
-
-🧬 bioprocess-digital-twin-causal-ai
-
- 
-
-Description: Bioprocess Digital Twin using PyTorch and Causal AI (DoWhy) for modeling process dynamics and performing root cause analysis on simulated bioreactor data.
-
-💶 euro-sparkle-finance
-
-
-
-Description: FinCopilot is a modern, data-driven personal finance management platform designed to help users track, analyze, and optimize their financial life in real time.
-
-🤖 multi-agent-llm-system
-
- 
-
-Description: Prototype multi-agent AI system for task orchestration, contextual reasoning and tool-integrated LLM workflows.
-
-🔎 grant-intelligence-pipeline
-
-
-
-Description: Automated Discovery & Structuring of Funding Opportunities.
-
-🛒 retail-inventory-system
-
-
-
-Description: Full-stack Inventory Management System using C# (.NET), React, and TypeScript.
-
+### 🛒 [retail-inventory-system](https://github.com/Subiswas36218/retail-inventory-system)
+![Stars](https://img.shields.io/github/stars/Subiswas36218/retail-inventory-system?style=social) 
+*   **Description:** Full-stack Inventory Management System using C# (.NET), React, and TypeScript.
 (Note: "Gold Price & War News ML Pipeline" is also an ongoing project featuring automated ETL and time-series forecasting)
 
 🌐 Connect with Me:
